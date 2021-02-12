@@ -1,0 +1,3 @@
+﻿test.obj : error LNK2005: "double const Constants::pi" (?pi@Constants@@3NB) already defined in global variable.obj
+test.obj : error LNK2005: "double const Constants::garvity" (?garvity@Constants@@3NB) already defined in global variable.obj
+C:\Users\윤경환\source\repos\cpp 4.2\Debug\cpp 4.2.exe : fatal error LNK1169: one or more multiply defined symbols found
