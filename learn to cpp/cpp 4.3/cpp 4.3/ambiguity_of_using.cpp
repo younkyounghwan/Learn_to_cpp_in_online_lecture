@@ -18,7 +18,7 @@ int main()
 {
 	
 	cout << "Hello" << endl;
-	//cout << my_var << endl; ambiguity
+	//cout << my_var << endl; //ambiguity
 	return 0;
 
 }
