@@ -1,0 +1,5 @@
+﻿  type conversion.cpp
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 4.5\cpp 4.5\type conversion.cpp(21,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 4.5\cpp 4.5\type conversion.cpp(27,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 4.5\cpp 4.5\type conversion.cpp(32,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  cpp 4.5.vcxproj -> C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 4.5\Debug\cpp 4.5.exe
