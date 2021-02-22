@@ -1,0 +1,5 @@
+﻿  type aliases.cpp
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 4.9\cpp 4.9\type aliases.cpp(13,13): warning C4101: 'home2school': unreferenced local variable
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 4.9\cpp 4.9\type aliases.cpp(12,13): warning C4101: 'home2work': unreferenced local variable
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 4.9\cpp 4.9\type aliases.cpp(11,13): warning C4101: 'my_distance': unreferenced local variable
+  cpp 4.9.vcxproj -> C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 4.9\Debug\cpp 4.9.exe
