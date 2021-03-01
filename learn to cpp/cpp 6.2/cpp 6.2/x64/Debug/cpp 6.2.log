@@ -1,0 +1,12 @@
+﻿  array.cpp
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.2\cpp 6.2\array.cpp(9,32): warning C4311: 'type cast': pointer truncation from 'int *[]' to 'int'
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.2\cpp 6.2\array.cpp(9,32): warning C4302: 'type cast': truncation from 'int *[]' to 'int'
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.2\cpp 6.2\array.cpp(22,32): warning C4311: 'type cast': pointer truncation from 'int (*)[20]' to 'int'
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.2\cpp 6.2\array.cpp(22,32): warning C4302: 'type cast': truncation from 'int (*)[20]' to 'int'
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.2\cpp 6.2\array.cpp(30,32): warning C4311: 'type cast': pointer truncation from 'int (*)[20]' to 'int'
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.2\cpp 6.2\array.cpp(30,32): warning C4302: 'type cast': truncation from 'int (*)[20]' to 'int'
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.2\cpp 6.2\array.cpp(31,31): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.2\cpp 6.2\array.cpp(31,31): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.2\cpp 6.2\array.cpp(39,38): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.2\cpp 6.2\array.cpp(39,38): warning C4302: 'type cast': truncation from 'int *' to 'int'
+  cpp 6.2.vcxproj -> C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.2\x64\Debug\cpp 6.2.exe
