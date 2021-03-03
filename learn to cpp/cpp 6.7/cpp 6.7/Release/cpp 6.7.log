@@ -1,0 +1,8 @@
+﻿  how to use pointer.cpp
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.7\cpp 6.7\how to use pointer.cpp(62,12): warning C4101: 'ss': unreferenced local variable
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.7\cpp 6.7\how to use pointer.cpp(74,9): warning C4101: 'ptr_b': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.7\cpp 6.7\how to use pointer.cpp(76): error C4700: uninitialized local variable 'ptr_a' used
+LINK : fatal error LNK1257: code generation failed

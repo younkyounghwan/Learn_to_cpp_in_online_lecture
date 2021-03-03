@@ -1,2 +1,5 @@
 ﻿  how to use pointer.cpp
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.7\cpp 6.7\how to use pointer.cpp(73,7): warning C4101: 'ptr_a': unreferenced local variable
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.7\cpp 6.7\how to use pointer.cpp(62,12): warning C4101: 'ss': unreferenced local variable
+C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.7\cpp 6.7\how to use pointer.cpp(74,9): warning C4101: 'ptr_b': unreferenced local variable
   cpp 6.7.vcxproj -> C:\Users\윤경환\computer science\cpp\learn to cpp\cpp 6.7\Debug\cpp 6.7.exe
