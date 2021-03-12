@@ -2,7 +2,7 @@
 
 using namespace std;
 
-enum StudentName
+enum StudentName // enumerate
 {
 	JACKJACK,		// = 0
 	DASH,			// = 1
@@ -31,10 +31,9 @@ int main()
 
 
 	cout << endl;
-	// Initailizing array
 
-	
-	
+
+	// Initailizing array
 	int my_array[] = { 1, 2, 3, 4, 5 };
 
 	for (int cnt = 0; cnt < 5; cnt++)
@@ -43,10 +42,10 @@ int main()
 	}
 	
 	cout << endl;
+
+
+
 	// Identifying sizeof struct 
-
-	
-
 	cout << sizeof(Rectangle) << endl;
 	Rectangle rect_arr[10];
 	cout << sizeof(rect_arr) << endl;
@@ -55,9 +54,10 @@ int main()
 
 
 	cout << endl;
+
+
+
 	// assigning in array
-	
-	
 
 	/*
 	int jackjack_score;
@@ -75,7 +75,7 @@ int main()
 	student_scores[2] = 90;  // 3rd element
 	student_scores[3] = 50;  // 4th element
 	student_scores[4] = 0;   // 5th element
-	//student_scores[5] = 30;  // 6th element 
+	//student_scores[5] = 30;  // 6th element       Can't do like this.
 
 	for (int cnt = 0; cnt < 5; cnt++) {
 		cout << student_scores[cnt] << endl;
